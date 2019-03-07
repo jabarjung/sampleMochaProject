@@ -1,0 +1,27 @@
+{
+  "name": "sample-mocha-project",
+  "version": "1.0.0",
+  "description": "A sample project to practice Mocha.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jabarjung/sampleMochaProject.git"
+  },
+  "keywords": [
+    "mocha",
+    "testing",
+    "nodejs",
+    "javascript",
+    "unit",
+    "integration"
+  ],
+  "author": "JabarJung Sandhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jabarjung/sampleMochaProject/issues"
+  },
+  "homepage": "https://github.com/jabarjung/sampleMochaProject#readme"
+}
