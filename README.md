@@ -1,2 +1,2 @@
 # Mocha
-It's a sample project to learn and test Mocha functionality.
+It's a sample project to practice Mocha functionality.
